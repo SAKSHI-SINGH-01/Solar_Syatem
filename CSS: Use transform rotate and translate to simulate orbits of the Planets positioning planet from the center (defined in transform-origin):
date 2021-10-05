@@ -1,0 +1,8 @@
+@keyframes earth-group {
+0%{
+transform: rotate(0deg) translate(3100px);
+}
+100%{
+transform: rotate(-360deg) translate(3100px);
+}
+}
