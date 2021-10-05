@@ -1,0 +1,4 @@
+.earth-group{
+transform-origin: center;
+animation: earth-group 13s linear infinite;
+}
