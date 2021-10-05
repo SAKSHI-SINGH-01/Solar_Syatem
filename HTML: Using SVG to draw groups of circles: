@@ -1,0 +1,26 @@
+<g class="earth-group">
+<circle class="earth-limit" cx="50%" cy="50%" r="590"/>
+<circle class="moon-orbit" cx="50%" cy="50%" r="500"/>
+<g class="moon-group">
+<circle class="moon" cx="50%" cy="50%" r="50"/>
+<circle class="moon-shadow" cx="50%" cy="50%" r="50"/>
+</g>
+<circle class="earth" cx="50%" cy="50%" r="400"/>
+<circle class="shadow" cx="50%" cy="50%" r="400"/>
+</g>
+Set SVG Radial and Linear Gradient
+SVG: Radial Gradient with an id:
+<radialGradient id="sun">
+<stop offset="30%" stop-color="yellow"/>
+<stop offset="100%" stop-color="orange"/>
+</radialGradient>
+SVG: Linear Gradient with an id:
+<linearGradient id="saturn" x1="0" x2="0" y1="0" y2="100%">
+<stop offset="0%" stop-color="#ec9a22"/>
+<stop offset="40%" stop-color="#d16c10"/>
+<stop offset="55%" stop-color="#d16c10"/>
+<stop offset="50%" stop-color="#ec9925"/>
+<stop offset="70%" stop-color="#ec9925"/>
+<stop offset="75%" stop-color="#d07b15"/>
+<stop offset="100%" stop-color="#ec9a22"/>
+</linearGradient>
