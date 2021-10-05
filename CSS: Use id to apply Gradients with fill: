@@ -1,0 +1,5 @@
+.sun {
+fill:url(#sun);
+transform: rotate(10deg);
+transform-origin: center;
+}
